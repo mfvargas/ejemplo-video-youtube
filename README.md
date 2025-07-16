@@ -2,7 +2,7 @@
 
 ### Survivor - Eye Of The Tiger
 
-[![Survivor - Eye Of The Tiger](https://img.youtube.com/vi/btPJPFnesV4/0.jpg)](https://www.youtube.com/watch?v=btPJPFnesV4 "Clic para ver el video en YouTube")
+[![Survivor - Eye Of The Tiger](https://img.youtube.com/vi/btPJPFnesV4/maxresdefault.jpg)](https://www.youtube.com/watch?v=btPJPFnesV4 "Clic para ver el video en YouTube")
 
 Código Markdown:
 
